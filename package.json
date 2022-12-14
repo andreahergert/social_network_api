@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/andreahergert/social_network_api/issues"
   },
-  "homepage": "https://github.com/andreahergert/social_network_api#readme"
+  "homepage": "https://github.com/andreahergert/social_network_api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
 }
