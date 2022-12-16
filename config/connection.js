@@ -1,7 +1,6 @@
 const mongoose = require('mongoose');
 
-// Double Check: Is DB name ok?
-mongoose.connect('mongodb://127.0.0.1:27017/usersDB', {
+mongoose.connect('mongodb://127.0.0.1:27017/socialnetworkDB', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
