@@ -13,7 +13,7 @@
 - [Questions](#questions)
 
 ## Description:
-This is a social network api back-end database created in the UW Coding Bootcamp. This is a command line application that utilizes mongoose, express, and moment to view, create, update, and delete data from the database using Insomnia or MongoDB.
+This is a social network api back-end database created in the UW Coding Bootcamp. This is a command line application that utilizes mongoose, express, and moment to view, create, update, and delete data from the database using Insomnia or MongoDB Compass.
 
 ## Installation:
 - Download it through Github
@@ -36,7 +36,6 @@ https://youtu.be/CMaXuKK3Jjc
 - Type npm i express into terminal
 - Type npm i mongoose into terminal
 - Type npm i moment into terminal
-- Type quit into terminal
 - Type npm start into the terminal
 - Once you see the Now Listening indication you may open up your MongoDB Compass and Insomnia software
 
@@ -117,6 +116,16 @@ DELETE /api/thoughts/:thoughtID/reactions/reactionID
 MongoDB Compass for socialmediaDB
 
 ![Screenshot](assets/img/screenshot15.png)
+
+
+MongoDB Compass for socialmediaDB users
+
+![Screenshot](assets/img/screenshot16.png)
+
+
+MongoDB Compass for socialmediaDB thoughts
+
+![Screenshot](assets/img/screenshot17.png)
 
 
 ## License:
